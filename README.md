@@ -26,4 +26,45 @@ It replicates the design and layout of Amazon’s homepage, including navigation
 ---
 
 
+## 📁 Folder Structure
+
+```
+
+amazon-clone/
+│
+├── index.html        # Main HTML file
+├── style.css         # CSS styling file
+├── navLogo3.png      # Amazon logo
+├── heroImage.jpg     # Banner image
+├── topDeals1.jpg     # Product images
+├── makeup.jpg
+├── fashion4.jpg
+├── toys.jpg
+├── personalCare.jpg
+├── shoes.jpg
+└── ... (other image assets)
+
+```
+
+---
+
+
+
+
+## 🙌 Credits
+
+- Inspired by [Amazon.com](https://www.amazon.com/)  
+- Icons by [Font Awesome](https://fontawesome.com/)  
+- Built by *Ezzah Aftab*  
+
+---
+
+## 📜 License
+
+This project is for **educational purposes only**.  
+It is not affiliated with or endorsed by Amazon.
+```
+
+---
+
 
